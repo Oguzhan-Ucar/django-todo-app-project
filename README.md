@@ -1,4 +1,4 @@
-# Django Todo App
+# Django Todo App Project
 
 ### Built With
 
